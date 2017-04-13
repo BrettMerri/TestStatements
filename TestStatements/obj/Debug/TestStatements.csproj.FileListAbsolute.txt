@@ -1,0 +1,6 @@
+C:\Users\Brett\Desktop\Projects\Misc\TestStatements\TestStatements\bin\Debug\TestStatements.exe.config
+C:\Users\Brett\Desktop\Projects\Misc\TestStatements\TestStatements\bin\Debug\TestStatements.exe
+C:\Users\Brett\Desktop\Projects\Misc\TestStatements\TestStatements\bin\Debug\TestStatements.pdb
+C:\Users\Brett\Desktop\Projects\Misc\TestStatements\TestStatements\obj\Debug\TestStatements.csprojResolveAssemblyReference.cache
+C:\Users\Brett\Desktop\Projects\Misc\TestStatements\TestStatements\obj\Debug\TestStatements.exe
+C:\Users\Brett\Desktop\Projects\Misc\TestStatements\TestStatements\obj\Debug\TestStatements.pdb
